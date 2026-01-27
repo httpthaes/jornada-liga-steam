@@ -1,0 +1,21 @@
+rodas = inteiro
+pesoKg = real
+quantidadePessoas = inteiro
+
+escreva("Quantas rodas tem o veículo?")
+leia(rodas)
+escreva("Qual o peso bruto do veículo (KG)?")
+leia(pesoKg)
+escreva("Qual é a quantidade de pessoas que o veículo acomoda?")
+leia(quantidadePessoas)
+
+se (rodas <= 3) entao:
+    escreva("Habilitação: A")
+senao se (rodas == 4) e (quantidadePessoas <= 8) e (pesoKg <= 3500) entao:
+    escreva("Habilitação: B")
+senao se (pesoKg >= 3500) e (pesoKg <= 6000) entao:
+    escreva("Habilitação: C")
+senao se (quantidadePessoas > 8) entao:
+    escreva("Habilitação: D")
+senao se (pesoKg > 6000) entao:
+    escreva("Habilitação: E")
