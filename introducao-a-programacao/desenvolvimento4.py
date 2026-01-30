@@ -20,4 +20,15 @@ def calculadora(num1, num2, operacao):
     else:
         return 0
 
-print(calculadora(10, 2, 1)) #teste
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+mensagem = '''Operações:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão'''
+
+print(mensagem)
+operacao = int(input("\nDigite a operação que deseja realizar: "))
+print(calculadora(num1, num2, operacao))
