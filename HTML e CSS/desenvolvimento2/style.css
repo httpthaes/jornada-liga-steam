@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+#descricao {
+    text-align: center;
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+img {
+    border-radius: 20px;
+    width: 500px;
+}
+
+.card {
+    list-style: none;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding: 10px 30px 30px 30px;
+    margin-bottom: 45px;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.texto {
+    font-size: 20px;
+    padding: 10px;
+    width: 400px;
+}
+
+a {
+    text-decoration-line: none;
+}
