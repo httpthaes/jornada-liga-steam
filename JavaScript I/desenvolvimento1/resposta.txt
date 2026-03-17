@@ -1,13 +1,11 @@
-Ao digitar um termo na barra de pesquisa do YouTube e pressionar a tecla Enter ou clicar no botão de pesquisa, 
-a página retorna uma lista de vídeos relacionados ao termo digitado. O conteúdo exibido na tela muda dinamicamente 
-de acordo com o que foi escrito no campo de busca.
+Ao digitar um termo na barra de pesquisa do YouTube e pressionar a tecla Enter ou clicar no botão de pesquisa, a página 
+retorna uma lista de vídeos relacionados ao termo digitado. O conteúdo exibido na tela muda dinamicamente de acordo com 
+o que foi escrito no campo de busca.
 
-O comportamento observado sugere que o valor digitado pelo usuário no campo de texto é capturado e utilizado para 
-gerar uma requisição de busca. A partir disso, novos resultados são carregados e exibidos na página. Cada pesquisa 
-realizada apresenta resultados diferentes, o que indica que há um processamento da informação digitada antes da 
-exibição dos vídeos.
+O comportamento observado sugere que o valor digitado pelo usuário no campo de texto é capturado e utilizado para gerar uma 
+requisição de busca. A partir disso, novos resultados são carregados e exibidos na página. Cada pesquisa realizada apresenta 
+resultados diferentes, o que indica que há um processamento da informação digitada antes da exibição dos vídeos.
 
-Esse tipo de comportamento não poderia ser implementado apenas com HTML e CSS, pois essas tecnologias são 
-responsáveis apenas pela estrutura e pela estilização da página. Para capturar o valor digitado pelo usuário, 
-processar essa informação e atualizar dinamicamente os resultados exibidos na página, é necessário o uso de 
-JavaScript para lidar com essa interação.
+Esse tipo de comportamento não poderia ser implementado apenas com HTML e CSS, pois essas tecnologias são responsáveis apenas 
+pela estrutura e pela estilização da página. Para capturar o valor digitado pelo usuário, processar essa informação e atualizar 
+dinamicamente os resultados exibidos na página, é necessário o uso de JavaScript para lidar com essa interação.
