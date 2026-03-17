@@ -1,0 +1,21 @@
+Uma extensão do Visual Studio Code que considero muito útil para quem está aprendendo desenvolvimento web é a Live Server. 
+Essa extensão permite abrir páginas HTML diretamente no navegador e atualizar automaticamente a página sempre que o código 
+é modificado e salvo.
+
+Escolhi essa extensão porque ela facilita muito o processo de desenvolvimento e aprendizado, principalmente para iniciantes 
+que estão trabalhando com HTML, CSS e JavaScript. Normalmente, quando criamos uma página web, precisamos salvar o arquivo e 
+atualizar manualmente o navegador para ver as mudanças feitas no código. Com o Live Server, esse processo acontece automaticamente, 
+o que torna o trabalho mais rápido e prático.
+
+Outra vantagem da extensão é que ela cria um servidor local no computador. Isso permite visualizar o projeto como se ele estivesse 
+realmente hospedado em um site, o que ajuda a entender melhor como as páginas web funcionam na prática.
+
+Além disso, a extensão é muito simples de usar. Depois de instalada, basta clicar com o botão direito no arquivo HTML e selecionar 
+a opção “Open with Live Server”, e a página será aberta no navegador. A partir desse momento, qualquer alteração feita no código 
+será atualizada automaticamente na página.
+
+Essa funcionalidade é muito útil durante o desenvolvimento de projetos web, pois permite testar rapidamente alterações de layout, 
+estilos em CSS e funcionalidades em JavaScript.
+
+Portanto, considero a extensão Live Server uma ferramenta muito importante para quem está começando a desenvolver páginas web, 
+pois ela melhora a produtividade, facilita os testes e torna o processo de aprendizado mais dinâmico.
